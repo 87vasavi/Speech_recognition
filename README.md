@@ -1,2 +1,2 @@
-## Part1 :  Detect speaker’s gender from recorded audio.
-## Part2 : Count number of speakers from the audio.
+## Part1 :  Detect speaker’s gender from audio.
+## Part2 : Count number of speakers from audio.
